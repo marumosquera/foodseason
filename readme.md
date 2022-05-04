@@ -1,6 +1,4 @@
-Proyecto de desarrollo web realizado en el marco del curso de Full stack de Digital House, se puede acceder a la aplicación terminada en
-foodseason.dhalumnos.com
-
+Proyecto de desarrollo web realizado en el marco del curso de Full stack de Digital House
 
 
 
